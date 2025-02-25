@@ -32,15 +32,18 @@ Version Control Systems are software tools tools used for tracking changes to so
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-
+Changing requirements, tight deadlines and technical debt. Strategies employed to mitigate these challenges include providing clear and effective communication, agile methodologies, prioritization of tasks and regular reasssessment of project goals.                         
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-
+Unit Testing: Unit testing involves examining individual components or functions of the software in isolation to verify their correctness. Developers typically perform this testing during the coding phase to identify and fix issues early in the development process.
+ Integration Testing: After unit testing, integration testing assesses the interactions between different modules or components to ensure they work together as intended. This level of testing helps detect issues related to data flow and control between integrated units
+ System Testing: System testing evaluates the complete and integrated software system to verify that it meets the specified requirements. This phase includes testing the system's functionality, performance, security, and other non-functional aspects to ensure it operates as expected in a real-world environment.
+ Acceptance Testing: Acceptance testing determines whether the software satisfies the end-users' needs and requirements. Conducted by the client or end-users, this testing ensures that the software is ready for deployment and use in the production environment.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
-
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+Prompt engineering is the crafting of questions and statements to get the best possible answers from an AI model. Prompt engineering helps avoid vague answers by creating clear and specific answers.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+"Tell me about Engineers" is an example of a vague prompt because the statement is dynamic and there are very disciplines of engineering. "Tell me about Biomedical Engineers" is a more specific and concise statement that an AI model would give a precise response to.It would tailor its responses to the medical field rather than talk about Enginnering as a dynamic entity.
